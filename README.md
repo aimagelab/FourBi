@@ -1,5 +1,6 @@
 # FourBi
-This repository contains the official implementation for our paper [Binarizing Documents by Leveraging both Space and Frequency](coming soon).
+
+This repository contains the official implementation for our paper [Binarizing Documents by Leveraging both Space and Frequency](https://arxiv.org/pdf/2404.17243).
 If you find it useful, please cite it as:
 ```
 @inproceedings{pippi2023handwritten,
@@ -10,7 +11,6 @@ If you find it useful, please cite it as:
   organization={Springer}
 }
 ```
-
 
 ## Setup
 To run this project, we used `python 3.11.7` and `pytorch 2.2.0` 
