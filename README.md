@@ -1,6 +1,6 @@
 # FourBi
 
-This repository contains the official implementation for our paper [Binarizing Documents by Leveraging both Space and Frequency](https://arxiv.org/pdf/2404.17243).
+This repository contains the official implementation for our paper [Binarizing Documents by Leveraging both Space and Frequency](https://arxiv.org/abs/2404.17243).
 If you find it useful, please cite it as:
 ```
 @inproceedings{pippi2023handwritten,
