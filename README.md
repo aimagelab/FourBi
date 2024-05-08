@@ -1,4 +1,4 @@
-# FourBi_7
+# FourBi
 
 ## Setup
 To run this project, we used `python 3.11.7` and `pytorch 2.2.0` 
