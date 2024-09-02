@@ -7,7 +7,7 @@ If you find it useful, please cite it as:
   title={{Binarizing Documents by Leveraging both Space and Frequency}},
   author={Quattrini, Fabio and Pippi, Vittorio and Cascianelli, Silvia and Cucchiara, Rita},
   booktitle={International Conference on Document Analysis and Recognition},
-  year={2023},
+  year={2024},
   organization={Springer}
 }
 ```
