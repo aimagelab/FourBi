@@ -3,10 +3,11 @@
 This repository contains the official implementation for our paper [Binarizing Documents by Leveraging both Space and Frequency](https://arxiv.org/abs/2404.17243).
 If you find it useful, please cite it as:
 ```
-@inproceedings{pippi2023handwritten,
-  title={{Binarizing Documents by Leveraging both Space and Frequency}},
+@inproceedings{quattrini2024binarizing,
+  title={Binarizing Documents by Leveraging both Space and Frequency},
   author={Quattrini, Fabio and Pippi, Vittorio and Cascianelli, Silvia and Cucchiara, Rita},
   booktitle={International Conference on Document Analysis and Recognition},
+  pages={3--22},
   year={2024},
   organization={Springer}
 }
